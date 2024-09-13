@@ -1,0 +1,67 @@
+# LaTeX temporary files
+*.pdf
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# BibTeX
+*.bbl
+*.blg
+
+# PDF output - usually a good idea to track this, but uncomment if you don't want to
+# *.pdf
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# LaTeX Beamer
+*.brf
+
+# LyX
+*.lyx~
+
+# Kile
+*.backup
+
+# gummi
+.*.swp
+
+# LaTeX-IDE (texmaker)
+*.dvi
+
+# TeXnicCenter
+*.tps
+
+# TeXstudio
+*.txss
+
+# WinEdt
+*.bak
+*.sav
+
+# Texpad
+.texpadtmp
+
+# LaTeX tools
+*.idx
+*.ilg
+*.ind
+*.ist
+
+# Latexian
+TSWLatexianTemp*
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
