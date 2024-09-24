@@ -14,9 +14,6 @@
 *.bbl
 *.blg
 
-# PDF output - usually a good idea to track this, but uncomment if you don't want to
-# *.pdf
-
 # Beamer
 *.nav
 *.snm
